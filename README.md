@@ -23,4 +23,4 @@ Find Rate and Price preamble information
 
 **Screen Snipping**
 
-![Alt Text](/Image/image_1)
+![Alt Text](/Image/image_1.jpg)
